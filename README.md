@@ -1,8 +1,7 @@
-<h1 align="left">Hi, I'm Karim 👋</h1>
+<h1 align="left">Hi there, I'm Karim 👋</h1>
 <p align="left">
 I build systems that connect robotics, AI, full-stack software, and physics-based simulation, balancing engineering with human-centered design and creativity.
 </p>
-<br>
 
 ## Focus Areas
 <p>
@@ -17,7 +16,6 @@ I build systems that connect robotics, AI, full-stack software, and physics-base
 ## Currently
 - Humanoid robotics software at **[Athenyx Robotics](https://athenyxrobotics.com/)**
 - Co-founder of **[Robotics Collective](https://roboticscollective.org/)**, a community of researchers, engineers and robotics enthusiasts pushing the boundaries. 
-<br>
 
 ## Tech Stack
 <p>
@@ -32,7 +30,6 @@ I build systems that connect robotics, AI, full-stack software, and physics-base
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" />
 </p>
-<br>
 
 ## Let's Connect
 <p>

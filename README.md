@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="left">Hi, I'm Karim 👋</h1>
+<p align="left">
+I build systems that connect robotics, AI, full-stack software, and physics-based simulation, balancing engineering with human-centered design and creativity.
+</p>
+<br>
 
-<!--
-**karimsiala/karimsiala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Focus Areas
+<p>
+  <img src="https://img.shields.io/badge/Humanoid%20and%20Bimanual%20Robotics-F3F4F6?style=flat-square&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Robot%20Learning-DBEAFE?style=flat-square&logoColor=111827" />
+  <img src="https://img.shields.io/badge/sim2real-D1FAE5?style=flat-square&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Software-FEF3C7?style=flat-square&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Systems%20and%20Product%20Thinking-FCE7F3?style=flat-square&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Simulation%20Systems-EDE9FE?style=flat-square&logoColor=111827" />
+</p>
 
-Here are some ideas to get you started:
+## Currently
+- 🤖 Working on humanoid robotics software at **[Athenyx Robotics](https://athenyxrobotics.com/)**
+- 🛠️ Co-founder of **[Robotics Collective Aachen](https://roboticscollective.org/)**, the community for robotics builders
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/MuJoCo-4B5563?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" />
+</p>
+<br>
+
+## Let's Connect
+<p>
+  <a href="mailto:karim@roboticscollective.org"><img src="https://img.shields.io/badge/Email-F3F4F6?style=flat-square&logo=gmail&logoColor=111827" /></a>
+  <a href="https://www.linkedin.com/in/karim-siala"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/karimsiala"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" /></a>
+</p>

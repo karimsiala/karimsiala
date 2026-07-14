@@ -15,8 +15,8 @@ I build systems that connect robotics, AI, full-stack software, and physics-base
 </p>
 
 ## Currently
-- 🤖 Working on humanoid robotics software at **[Athenyx Robotics](https://athenyxrobotics.com/)**
-- 🛠️ Co-founder of **[Robotics Collective Aachen](https://roboticscollective.org/)**, the community for robotics builders
+- Humanoid robotics software at **[Athenyx Robotics](https://athenyxrobotics.com/)**
+- Co-founder of **[Robotics Collective](https://roboticscollective.org/)**, a community of researchers, engineers and robotics enthusiasts pushing the boundaries. 
 <br>
 
 ## Tech Stack
@@ -27,8 +27,8 @@ I build systems that connect robotics, AI, full-stack software, and physics-base
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/MuJoCo-4B5563?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square&logoColor=111827" />
+  <img src="https://img.shields.io/badge/MuJoCo-0053d6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square&logo=huggingface&logoColor=000000" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" />
 </p>
@@ -37,6 +37,6 @@ I build systems that connect robotics, AI, full-stack software, and physics-base
 ## Let's Connect
 <p>
   <a href="mailto:karim@roboticscollective.org"><img src="https://img.shields.io/badge/Email-F3F4F6?style=flat-square&logo=gmail&logoColor=111827" /></a>
-  <a href="https://www.linkedin.com/in/karim-siala"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/karim-siala"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" /></a>  
   <a href="https://github.com/karimsiala"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
